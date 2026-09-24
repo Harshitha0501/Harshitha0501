@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="github-banner.png" alt="Harshitha C. — Software Developer and Aspiring Data Analyst" width="100%" />
+</p>
+
+---
+
 # Hi 👋, I'm Harshitha C.
 
 ### Software Developer | Aspiring Data Analyst | Exploring AI/ML
