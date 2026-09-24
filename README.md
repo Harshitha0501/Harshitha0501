@@ -103,3 +103,18 @@ Analyzed **81,777 restaurant records** to explore restaurant locations, cuisine 
 ---
 
 ### 🚀 Build • Learn • Explore • Improve
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,spring,fastapi,mysql,mongodb,git,github,vscode,eclipse" />
+</p>
+
+### 📊 Data & AI
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F1C40F?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Exploring-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-Learning-purple?style=for-the-badge" />
+</p>
