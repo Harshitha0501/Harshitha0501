@@ -122,8 +122,10 @@ Analyzed **81,777 restaurant records** to explore restaurant locations, cuisine 
 ---
 ---
 
-## 📈 GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshitha0501&show_icons=true&theme=tokyonight&hide_border=true)
+## 📈 GitHub Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitha0501&layout=compact&theme=tokyonight&hide_border=true)
+Check out my repositories and contributions:
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-View%20My%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/Harshitha0501)
