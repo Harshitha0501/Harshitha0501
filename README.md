@@ -118,3 +118,15 @@ Analyzed **81,777 restaurant records** to explore restaurant locations, cuisine 
   <img src="https://img.shields.io/badge/Machine%20Learning-Exploring-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Generative%20AI-Learning-purple?style=for-the-badge" />
 </p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshitha0501&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitha0501&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
