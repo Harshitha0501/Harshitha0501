@@ -120,13 +120,10 @@ Analyzed **81,777 restaurant records** to explore restaurant locations, cuisine 
 </p>
 
 ---
+---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshitha0501&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshitha0501&show_icons=true&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitha0501&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitha0501&layout=compact&theme=tokyonight&hide_border=true)
