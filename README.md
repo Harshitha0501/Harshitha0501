@@ -6,7 +6,6 @@
 
 # Hi 👋, I'm Harshitha C.
 
-### Software Developer | Aspiring Data Analyst | Exploring AI/ML
 
 I'm a software developer interested in building practical web applications, REST APIs, data-driven solutions, and intelligent applications.
 
