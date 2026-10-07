@@ -1,28 +1,29 @@
 <p align="center">
-  <img src="github-banner.png" alt="Harshitha C. — Software Developer and Aspiring Data Analyst" width="100%" />
+  <img src="github-banner.png" alt="Harshitha C. — Software Developer" width="100%" />
 </p>
-
----
 
 # Hi 👋, I'm Harshitha C.
 
+### Software Developer | Java • Spring Boot • React • REST APIs • MySQL
 
-I'm a software developer interested in building practical web applications, REST APIs, data-driven solutions, and intelligent applications.
+I'm a Software Developer focused on building practical web applications, backend services, and REST APIs.
 
-I work with Java, Spring Boot, Python, React, SQL, and modern web technologies while continuously exploring AI, Machine Learning, Generative AI, and cloud technologies.
+I work primarily with Java, Spring Boot, React, SQL, and modern web technologies. I enjoy building applications, integrating frontend and backend systems, debugging issues, and continuously improving my software engineering skills.
+
+🌐 **Portfolio:** [View My Portfolio](https://harshitha-portfolio-fawn.vercel.app)
 
 ---
 
 ## 👩‍💻 About Me
 
-- 💻 Building applications with **Java, Spring Boot, Python, FastAPI and React**
-- 📊 Interested in **Data Analytics, SQL, Python, Excel and Power BI**
-- 🤖 Exploring **AI, Machine Learning, Generative AI and LLM applications**
-- 🌐 Interested in **Full-Stack and Backend Development**
-- 🗄️ Working with **MySQL and MongoDB**
-- 🔐 Learning **REST APIs, JWT, OAuth 2.0 and API Integration**
-- ☁️ Exploring **Cloud technologies, Azure and GCP**
-- 🚀 Building practical projects for real-world use cases
+- 💻 Building applications with **Java, Spring Boot, React, and REST APIs**
+- 🌐 Interested in **Backend and Full-Stack Development**
+- 🗄️ Working with **MySQL, MongoDB, and H2**
+- 🔐 Working with **Spring Security and OAuth 2.0**
+- 🛠️ Using **Git, GitHub, Maven, Docker, and Postman**
+- 📊 Interested in **SQL, Python, Data Analytics, Excel, and Power BI**
+- 🤖 Exploring **AI/ML and intelligent applications**
+- 🚀 Building practical projects focused on real-world use cases
 - 📚 Continuously learning and improving my technical skills
 
 ---
@@ -30,60 +31,155 @@ I work with Java, Spring Boot, Python, React, SQL, and modern web technologies w
 ## 🛠️ Technical Skills
 
 ### Languages
-Java • Python • JavaScript • SQL • HTML • CSS
+`Java` `SQL` `JavaScript` `Python`
 
 ### Backend
-Spring Boot • Spring MVC • FastAPI • REST APIs • JDBC • Hibernate
+`Spring Boot` `Spring MVC` `Spring Security` `JDBC` `FastAPI` `REST APIs`
 
 ### Frontend
-React • JavaScript • HTML5 • CSS3 • Bootstrap • Tailwind CSS
+`React` `HTML` `CSS` `Bootstrap`
 
 ### Databases
-MySQL • MongoDB
-
-### Data & Analytics
-SQL • Python • Data Cleaning • Data Analysis • Excel • Power BI
-
-### AI / ML
-Machine Learning • Generative AI • LLMs • Prompt Engineering • NLP
+`MySQL` `MongoDB` `H2`
 
 ### Tools
-Git • GitHub • Postman • Maven • VS Code • Eclipse • MySQL Workbench
+`Git` `GitHub` `Docker` `Maven` `Postman` `VS Code` `Eclipse` `MySQL Workbench`
+
+### Data & Analytics
+`SQL` `Python` `Data Analysis` `Excel` `Power BI`
 
 ### Currently Exploring
-LangChain • LLM Applications • AI/ML • TypeScript • Azure • GCP
+`AI/ML` `Generative AI` `LLM Applications` `TypeScript` `Cloud Technologies`
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Experience
 
-### 🔹 SkillGap AI
+### Freelance Full Stack Developer
+**Pre-Startup Client · Remote · 2025**
 
-**Python • FastAPI • MongoDB • React • JWT**
+- Developed approximately 70% of an e-commerce web application using Java, Spring Boot, React, REST APIs, and MySQL.
+- Built product catalog, shopping cart, checkout, user account, and order management features.
+- Implemented Admin and Customer roles with role-based access control.
+- Worked directly with the client on requirements, development, API integration, debugging, and assigned scope delivery.
 
-A skill-gap analysis application that compares resume skills with job requirements and generates a personalized skill improvement roadmap.
+### Software Developer Intern
+**Sigvitas & Company · Mysore · Oct 2024 – Dec 2024**
 
-🔗 [View Project](https://github.com/Harshitha0501/skillgap-ai)
-
----
-
-### 🔹 Salesforce CRUD Application
-
-**React • FastAPI • Salesforce • OAuth 2.0 • REST API**
-
-A full-stack application for managing Salesforce records with OAuth authentication, CRUD operations, pagination and form validation.
-
-🔗 [View Project](https://github.com/Harshitha0501/sf-crud-app)
+- Worked on a Patent Search & Clustering application.
+- Contributed to frontend and backend integration across multiple application modules.
+- Worked with REST APIs and supported frontend-backend integration.
+- Fixed cross-browser UI issues and assisted with application debugging.
 
 ---
 
-### 🔹 Swiggy Restaurant Data Analysis
+# 🚀 Featured Projects
 
-**MySQL • SQL • Data Cleaning • Data Analysis**
+## ⭐ StaffHub — Employee Management System
 
-Analyzed **81,777 restaurant records** to explore restaurant locations, cuisine categories, ratings, pricing patterns and cost-versus-rating relationships.
+A full-stack employee management application with role-based workflows for Admin, HR, and Employees.
 
-🔗 [View Project](https://github.com/Harshitha0501/Swiggy-SQL-Analysis)
+**Tech:** Java, Spring Boot, Spring Security, Spring Data JPA, H2, JavaScript
+
+### Highlights
+
+- Admin, HR, and Employee dashboards
+- Employee management
+- Attendance tracking
+- Leave management
+- Task management
+- Payroll and payslip features
+- Department management
+- Announcements
+- Role-based access control
+
+🔗 **Live Demo:** [Open StaffHub](https://staffhub-employee-management.onrender.com)
+
+🔗 **Source Code:** [GitHub Repository](https://github.com/Harshitha0501/staffhub-employee-management)
+
+---
+
+## 🔹 Salesforce CRUD Application
+
+A full-stack Salesforce integration application built with React and FastAPI.
+
+**Tech:** React, FastAPI, Salesforce API, OAuth 2.0
+
+### Highlights
+
+- Salesforce OAuth 2.0 authentication
+- CRUD operations
+- Account management
+- Opportunity management
+- Lead management
+- Contact management
+- Case management
+- Pagination and validation
+
+🔗 **Source Code:** [GitHub Repository](https://github.com/Harshitha0501/sf-crud-app)
+
+---
+
+## 🔹 SkillGap AI
+
+A career-focused application that compares skills against selected job roles and provides a personalized skill improvement roadmap.
+
+**Tech:** React, FastAPI, MongoDB, JavaScript
+
+### Highlights
+
+- Job-role matching
+- Skill gap identification
+- Career roadmap
+- Interview preparation
+- Progress tracking
+- Rule-based skill scoring
+
+🔗 **Live Demo:** [Open SkillGap AI](https://skillgap-ai-mu.vercel.app)
+
+🔗 **Source Code:** [GitHub Repository](https://github.com/Harshitha0501/skillgap-ai)
+
+---
+
+## 🔹 URL Shortener
+
+A backend-focused URL shortening application built with Java and Spring Boot.
+
+**Tech:** Java, Spring Boot, MySQL, Docker, REST APIs
+
+### Highlights
+
+- URL shortening
+- REST API development
+- MySQL database integration
+- Dockerized application setup
+- Backend service development
+
+🔗 **Source Code:** [GitHub Repository](https://github.com/Harshitha0501/url-shortener)
+
+---
+
+## 📊 Data Analytics Project
+
+### Swiggy Restaurant Data Analysis
+
+Analyzed **81,777 restaurant records** using MySQL to explore restaurant locations, cuisine categories, ratings, pricing patterns, and cost-versus-rating relationships.
+
+**Tech:** MySQL • SQL • Data Cleaning • Data Analysis
+
+🔗 **Source Code:** [GitHub Repository](https://github.com/Harshitha0501/Swiggy-SQL-Analysis)
+
+---
+
+## 📜 Certifications
+
+### HackerRank — Software Engineer
+
+[View Certificate](https://www.hackerrank.com/certificates/iframe/9a6b4d2791a5)
+
+### HackerRank — SQL Intermediate
+
+[View Certificate](https://www.hackerrank.com/certificates/iframe/1cbdb84dd236)
 
 ---
 
@@ -91,46 +187,50 @@ Analyzed **81,777 restaurant records** to explore restaurant locations, cuisine 
 
 - Advanced Java & Spring Boot
 - Full-Stack Development
-- Python & Data Analytics
-- Machine Learning
+- REST API Development
+- SQL & Data Analytics
+- Python
+- AI/ML Applications
 - Generative AI & LLM Applications
 - Cloud Technologies
-- Building production-style applications
 
 ---
 
 ## 🤝 Connect With Me
 
-💼 [LinkedIn](https://www.linkedin.com/in/harshitha-c2605/)
+🌐 **Portfolio:** [harshitha-portfolio-fawn.vercel.app](https://harshitha-portfolio-fawn.vercel.app)
 
-🐙 [GitHub](https://github.com/Harshitha0501)
+💼 **LinkedIn:** [linkedin.com/in/harshitha-c2605](https://linkedin.com/in/harshitha-c2605)
+
+🐙 **GitHub:** [github.com/Harshitha0501](https://github.com/Harshitha0501)
+
+📧 **Email:** [harshithac0512@gmail.com](mailto:harshithac0512@gmail.com)
 
 ---
 
-### 🚀 Build • Learn • Explore • Improve
-
----
-
-## 🛠️ Languages and Tools
+## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,spring,fastapi,mysql,mongodb,git,github,vscode,eclipse" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,spring,fastapi,mysql,mongodb,git,github,docker,vscode,eclipse" />
 </p>
 
 ### 📊 Data & AI
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F1C40F?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Exploring-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Generative%20AI-Learning-purple?style=for-the-badge" />
-</p>
 
----
----
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-Exploring-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%2FML-Learning-purple?style=for-the-badge" />
+</p>
 
 ---
 
 ## 📈 GitHub Activity
 
-Check out my repositories and contributions:
+Explore my repositories and projects:
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-View%20My%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/Harshitha0501)
+
+---
+
+### 🚀 Build • Learn • Improve
