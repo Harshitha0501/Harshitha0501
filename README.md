@@ -235,14 +235,14 @@ Explore my repositories and projects:
 
 ---
 
+
+
 ## 🌍 Open Source Contributions
 
-- **Kestra:** Contributing to the open-source project.
+- **Project:** [Kestra](https://github.com/kestra-io/kestra)
 - **Pull Request:** [#20621 — Replace spacing utility classes in TimeSelect](https://github.com/kestra-io/kestra/pull/20621)
-- ###  Open Source Contributions
-[![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
-- **Status:** Pull request open — awaiting review.
+- **Status:** Open — awaiting review
 
----
+[![Kestra PR](https://img.shields.io/badge/Kestra-PR%20%2320621%20Open-8250df?style=for-the-badge&logo=github)](https://github.com/kestra-io/kestra/pull/20621)
 
 ### 🚀 Build • Learn • Improve
