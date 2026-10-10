@@ -247,12 +247,5 @@ Explore my repositories and projects:
 
 [![Developer Portfolios PR](https://img.shields.io/badge/Developer%20Portfolios-PR%20%234308%20Merged-2da44e?style=for-the-badge&logo=github)](https://github.com/emmabostian/developer-portfolios/pull/4308)
 
-### 🔄 Kestra — In Progress
-
-- **Contribution:** Replacing Bootstrap spacing utility classes with scoped CSS.
-- **Pull Request:** [#20621 — Replace spacing utility classes in TimeSelect](https://github.com/kestra-io/kestra/pull/20621)
-- **Status:** Open — awaiting review.
-
-[![Kestra PR](https://img.shields.io/badge/Kestra-PR%20%2320621%20Open-8250df?style=for-the-badge&logo=github)](https://github.com/kestra-io/kestra/pull/20621)
 
 ### 🚀 Build • Learn • Improve
