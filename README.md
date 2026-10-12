@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="github-banner.png" alt="Harshitha C. — Software Developer" width="100%" />
 </p>
 
@@ -6,246 +6,236 @@
 
 ### Software Developer | Java • Spring Boot • React • REST APIs • MySQL
 
-I'm a Software Developer focused on building practical web applications, backend services, and REST APIs.
+I develop practical web applications and backend services using Java, Spring Boot, React, and SQL. I enjoy integrating APIs, solving development issues, and contributing to open-source projects.
 
-I work primarily with Java, Spring Boot, React, SQL, and modern web technologies. I enjoy building applications, integrating frontend and backend systems, debugging issues, and continuously improving my software engineering skills.
-
-🌐 **Portfolio:** [View My Portfolio](https://harshitha-portfolio-fawn.vercel.app)
+<p align="left">
+  <a href="https://harshitha-portfolio-fawn.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/harshitha-c2605">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Harshitha0501">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 💻 Building applications with **Java, Spring Boot, React, and REST APIs**
-- 🌐 Interested in **Backend and Full-Stack Development**
-- 🗄️ Working with **MySQL, MongoDB, and H2**
-- 🔐 Working with **Spring Security and OAuth 2.0**
-- 🛠️ Using **Git, GitHub, Maven, Docker, and Postman**
-- 📊 Interested in **SQL, Python, Data Analytics, Excel, and Power BI**
-- 🤖 Exploring **AI/ML and intelligent applications**
-- 🚀 Building practical projects focused on real-world use cases
-- 📚 Continuously learning and improving my technical skills
+- 💻 Interested in backend and full-stack software development.
+- ☕ Working with Java, Spring Boot, React, and REST APIs.
+- 🗄️ Building applications with MySQL, MongoDB, and H2.
+- 🔐 Exploring authentication, authorization, and OAuth 2.0 integrations.
+- 🛠️ Using Git, GitHub, Maven, Docker, and Postman.
+- 🌍 Contributing to open-source projects and improving my software engineering skills.
+- 📊 Also interested in SQL, Python, and data analytics.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Languages
-`Java` `SQL` `JavaScript` `Python`
+**Languages**
 
-### Backend
+`Java` `JavaScript` `SQL` `Python`
+
+**Backend & APIs**
+
 `Spring Boot` `Spring MVC` `Spring Security` `JDBC` `FastAPI` `REST APIs`
 
-### Frontend
+**Frontend**
+
 `React` `HTML` `CSS` `Bootstrap`
 
-### Databases
+**Databases**
+
 `MySQL` `MongoDB` `H2`
 
-### Tools
-`Git` `GitHub` `Docker` `Maven` `Postman` `VS Code` `Eclipse` `MySQL Workbench`
+**Tools & Platforms**
 
-### Data & Analytics
-`SQL` `Python` `Data Analysis` `Excel` `Power BI`
+`Git` `GitHub` `Maven` `Docker` `Postman` `VS Code` `Eclipse` `MySQL Workbench`
 
-### Currently Exploring
-`AI/ML` `Generative AI` `LLM Applications` `TypeScript` `Cloud Technologies`
+**Additional Interests**
+
+`Data Analysis` `Excel` `Power BI` `AI/ML` `Generative AI` `TypeScript` `Cloud Technologies`
 
 ---
 
 ## 💼 Experience
 
 ### Freelance Full Stack Developer
+
 **Pre-Startup Client · Remote · 2025**
 
 - Developed approximately 70% of an e-commerce web application using Java, Spring Boot, React, REST APIs, and MySQL.
-- Built product catalog, shopping cart, checkout, user account, and order management features.
+- Worked on product catalog, shopping cart, checkout, user accounts, and order management features.
 - Implemented Admin and Customer roles with role-based access control.
-- Worked directly with the client on requirements, development, API integration, debugging, and assigned scope delivery.
+- Collaborated directly with the client on requirements, API integration, debugging, and assigned project scope.
+
+**Technologies:** Java, Spring Boot, React, REST APIs, MySQL
 
 ### Software Developer Intern
-**Sigvitas & Company · Mysore · Oct 2024 – Dec 2024**
 
-- Worked on a Patent Search & Clustering application.
-- Contributed to frontend and backend integration across multiple application modules.
-- Worked with REST APIs and supported frontend-backend integration.
-- Fixed cross-browser UI issues and assisted with application debugging.
+**Sigvitas & Company · Mysore · October 2024 – December 2024**
+
+- Contributed to a Patent Search and Clustering application.
+- Supported frontend-backend integration across application modules.
+- Worked with REST APIs and assisted with integration debugging.
+- Fixed cross-browser UI issues and supported application troubleshooting.
+
+**Technologies:** Java, Spring Boot, React, REST APIs
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## ⭐ StaffHub — Employee Management System
+### ⭐ StaffHub — Employee Management System
 
 A full-stack employee management application with role-based workflows for Admin, HR, and Employees.
 
-**Tech:** Java, Spring Boot, Spring Security, Spring Data JPA, H2, JavaScript
+**Tech Stack:** Java 17, Spring Boot, Spring Security, Spring Data JPA, H2, JavaScript
 
-### Highlights
-
-- Admin, HR, and Employee dashboards
-- Employee management
-- Attendance tracking
-- Leave management
+**Key Features**
+- Separate Admin, HR, and Employee dashboards
+- Employee and department management
+- Attendance and leave management
 - Task management
 - Payroll and payslip features
-- Department management
-- Announcements
-- Role-based access control
+- Announcements and role-based access control
 
-🔗 **Live Demo:** [Open StaffHub](https://staffhub-employee-management.onrender.com)
-
-🔗 **Source Code:** [GitHub Repository](https://github.com/Harshitha0501/staffhub-employee-management)
+🔗 **[Live Demo](https://staffhub-employee-management.onrender.com)** · **[Source Code](https://github.com/Harshitha0501/staffhub-employee-management)**
 
 ---
 
-## 🔹 Salesforce CRUD Application
+### 🔗 Salesforce CRUD Application
 
-A full-stack Salesforce integration application built with React and FastAPI.
+A full-stack Salesforce integration application for managing CRM records through API integration.
 
-**Tech:** React, FastAPI, Salesforce API, OAuth 2.0
+**Tech Stack:** React, FastAPI, Salesforce API, OAuth 2.0
 
-### Highlights
-
+**Key Features**
 - Salesforce OAuth 2.0 authentication
-- CRUD operations
-- Account management
-- Opportunity management
-- Lead management
-- Contact management
-- Case management
-- Pagination and validation
+- Create, read, update, and delete operations
+- Account, Lead, Opportunity, Contact, and Case management
+- Pagination and form validation
 
-🔗 **Source Code:** [GitHub Repository](https://github.com/Harshitha0501/sf-crud-app)
+🔗 **[Source Code](https://github.com/Harshitha0501/sf-crud-app)**
 
 ---
 
-## 🔹 SkillGap AI
+### 🧠 SkillGap AI
 
-A career-focused application that compares skills against selected job roles and provides a personalized skill improvement roadmap.
+A career-focused application that compares skills against selected job roles and provides a personalized learning roadmap.
 
-**Tech:** React, FastAPI, MongoDB, JavaScript
+**Tech Stack:** React, FastAPI, MongoDB, JavaScript
 
-### Highlights
-
-- Job-role matching
-- Skill gap identification
-- Career roadmap
+**Key Features**
+- Job-role matching and skill-gap identification
+- Personalized learning roadmap
 - Interview preparation
 - Progress tracking
 - Rule-based skill scoring
 
-🔗 **Live Demo:** [Open SkillGap AI](https://skillgap-ai-mu.vercel.app)
-
-🔗 **Source Code:** [GitHub Repository](https://github.com/Harshitha0501/skillgap-ai)
+🔗 **[Live Demo](https://skillgap-ai-mu.vercel.app/)** · **[Source Code](https://github.com/Harshitha0501/skillgap-ai)**
 
 ---
 
-## 🔹 URL Shortener
+### ⚙️ URL Shortener
 
-A backend-focused URL shortening application built with Java and Spring Boot.
+A backend-focused application for creating shortened URLs through REST APIs.
 
-**Tech:** Java, Spring Boot, MySQL, Docker, REST APIs
+**Tech Stack:** Java, Spring Boot, MySQL, Docker
 
-### Highlights
-
+**Key Features**
 - URL shortening
 - REST API development
 - MySQL database integration
 - Dockerized application setup
-- Backend service development
 
-🔗 **Source Code:** [GitHub Repository](https://github.com/Harshitha0501/url-shortener)
+🔗 **[Source Code](https://github.com/Harshitha0501/url-shortener)**
 
 ---
 
-## 📊 Data Analytics Project
+### 📊 Swiggy Restaurant Data Analysis
 
-### Swiggy Restaurant Data Analysis
+Analyzed **81,777 restaurant records** to explore restaurant locations, cuisine categories, ratings, pricing patterns, and cost-versus-rating relationships.
 
-Analyzed **81,777 restaurant records** using MySQL to explore restaurant locations, cuisine categories, ratings, pricing patterns, and cost-versus-rating relationships.
+**Tech Stack:** MySQL, SQL, Data Cleaning, Data Analysis
 
-**Tech:** MySQL • SQL • Data Cleaning • Data Analysis
+🔗 **[Source Code](https://github.com/Harshitha0501/Swiggy-SQL-Analysis)**
 
-🔗 **Source Code:** [GitHub Repository](https://github.com/Harshitha0501/Swiggy-SQL-Analysis)
+---
+
+## 🌍 Open-Source Contributions
+
+I contribute to open-source projects through feature development, user interface improvements, and code refactoring.
+
+### ✅ Developer Portfolios
+
+Added my developer portfolio to the open-source community portfolio collection.
+
+🔗 [Pull Request #4308 — Add Harshitha C. Portfolio](https://github.com/emmabostian/developer-portfolios/pull/4308) · **Merged**
+
+### ✅ SlopTotal Extension
+
+Added a confidence label to quick-score popup results, with subtle styling for the confidence indicator.
+
+🔗 [Pull Request #4 — Add Confidence Label](https://github.com/pablocaeg/sloptotal-extension/pull/4) · **Merged**
+
+### 🔧 Kestra
+
+Contributed a UI refactor to the TimeSelect component by replacing spacing utility classes with dedicated CSS classes.
+
+🔗 [Pull Request #20621 — TimeSelect Spacing Refactor](https://github.com/kestra-io/kestra/pull/20621)
+
+### 🚀 Expense Tracker
+
+Working on dashboard UI/UX improvements to make the interface more responsive, consistent, and user-friendly.
+
+🔗 [Expense Tracker Repository](https://github.com/Harshitha0501/ExpenseTracker)
 
 ---
 
 ## 📜 Certifications
 
-### HackerRank — Software Engineer
-
-[View Certificate](https://www.hackerrank.com/certificates/iframe/9a6b4d2791a5)
-
-### HackerRank — SQL Intermediate
-
-[View Certificate](https://www.hackerrank.com/certificates/iframe/1cbdb84dd236)
+- [HackerRank — Software Engineer Certificate](https://www.hackerrank.com/certificates/iframe/9a6b4d2791a5)
+- [HackerRank — SQL Intermediate Certificate](https://www.hackerrank.com/certificates/iframe/1cbdb84dd236)
 
 ---
 
-## 🎯 Currently Learning
-
-- Advanced Java & Spring Boot
-- Full-Stack Development
-- REST API Development
-- SQL & Data Analytics
-- Python
-- AI/ML Applications
-- Generative AI & LLM Applications
-- Cloud Technologies
-
----
-
-## 🤝 Connect With Me
-
-🌐 **Portfolio:** [harshitha-portfolio-fawn.vercel.app](https://harshitha-portfolio-fawn.vercel.app)
-
-💼 **LinkedIn:** [linkedin.com/in/harshitha-c2605](https://linkedin.com/in/harshitha-c2605)
-
-🐙 **GitHub:** [github.com/Harshitha0501](https://github.com/Harshitha0501)
-
-📧 **Email:** [harshithac0512@gmail.com](mailto:harshithac0512@gmail.com)
-
----
-
-## 🛠️ Languages & Tools
+## 🧰 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,spring,fastapi,mysql,mongodb,git,github,docker,vscode,eclipse" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,spring,fastapi,mysql,mongodb,git,github,docker,vscode,eclipse" alt="Java, Python, JavaScript, HTML, CSS, React, Spring, FastAPI, MySQL, MongoDB, Git, GitHub, Docker, VS Code, Eclipse" />
 </p>
 
-### 📊 Data & AI
-
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Data%20Analytics-Exploring-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%2FML-Learning-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
 
 ---
 
 ## 📈 GitHub Activity
 
-Explore my repositories and projects:
+<p align="left">
+  <a href="https://github.com/Harshitha0501?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories" />
+  </a>
+</p>
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-View%20My%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/Harshitha0501)
+Explore my repositories to see my software projects, development work, and open-source contributions.
 
 ---
 
+## 🤝 Connect With Me
+
+- 🌐 **Portfolio:** [harshitha-portfolio-fawn.vercel.app](https://harshitha-portfolio-fawn.vercel.app/)
+- 💼 **LinkedIn:** [harshitha-c2605](https://linkedin.com/in/harshitha-c2605)
+- 🐙 **GitHub:** [Harshitha0501](https://github.com/Harshitha0501)
+- 📧 **Email:** [harshithac0512@gmail.com](mailto:harshithac0512@gmail.com)
+
 ---
 
-
-
-## 🌍 Open Source Contributions
-
-### ✅ Developer Portfolios — Merged
-
-- **Contribution:** Added my developer portfolio to the open-source community repository.
-- **Pull Request:** [#4308 — Add Harshitha C portfolio](https://github.com/emmabostian/developer-portfolios/pull/4308)
-- **Status:** Successfully merged into `master`.
-
-[![Developer Portfolios PR](https://img.shields.io/badge/Developer%20Portfolios-PR%20%234308%20Merged-2da44e?style=for-the-badge&logo=github)](https://github.com/emmabostian/developer-portfolios/pull/4308)
-
-
-### 🚀 Build • Learn • Improve
+### 🚀 Build • Learn • Contribute • Improve
